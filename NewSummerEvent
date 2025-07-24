@@ -1,1 +1,2 @@
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/QP6PVofSPSnwtcwi/raw", true))() 
 loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-YARHM-12403"))()
